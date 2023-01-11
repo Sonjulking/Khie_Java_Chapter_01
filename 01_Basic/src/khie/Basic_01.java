@@ -1,6 +1,7 @@
 package khie;
 
 // java에서 한 줄 주석문
+//
 
 /*
  * java에서 두 줄 이상의 주석문
